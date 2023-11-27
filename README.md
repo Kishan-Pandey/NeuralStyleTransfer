@@ -13,8 +13,16 @@ content-image and its style-distance with the style-image. Then I
 import the necessary packages and begin the neural transfer.
 
 The following two images are used:
+
+
+
 Input Images
 ![dancing](https://github.com/Kishan-Pandey/NeuralStyleTransfer/assets/77564344/1e78555a-dafe-4807-ba92-857c04cbb2c6)
+
+
+
+
+
 
 Style Image
 ![picasso](https://github.com/Kishan-Pandey/NeuralStyleTransfer/assets/77564344/530c661a-8355-41bd-a6cf-2f99b35be921)
