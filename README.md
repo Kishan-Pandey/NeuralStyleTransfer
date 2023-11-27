@@ -16,7 +16,7 @@ The following two images are used:
 
 
 
-Input Images
+Style Images
 ![dancing](https://github.com/Kishan-Pandey/NeuralStyleTransfer/assets/77564344/1e78555a-dafe-4807-ba92-857c04cbb2c6)
 
 
@@ -24,7 +24,7 @@ Input Images
 
 
 
-Style Image
+Input Image
 ![picasso](https://github.com/Kishan-Pandey/NeuralStyleTransfer/assets/77564344/530c661a-8355-41bd-a6cf-2f99b35be921)
 
 
